@@ -1,0 +1,104 @@
+<!-- So gebt Ihr den einzelnen Seiten (Tabs) einen Titel: ## Euer Titel -->
+## Beispielkapitel
+
+
+<!-- So fügt Ihr ein Video ein: ![*Lernvideo: Videobeschreibung (Dauer in min)*](https://EuerLink) -->
+![*Promovideo R Lernen - Der Datenkurs von und für die Zivilgesellschaft (1min)*](https://youtu.be/avH7Yn86SrU)
+
+
+<!-- So fügt Ihr eine Überschrift ein: ### Eure Überschrift -->
+### Hier ist eine Überschrift 
+#### Das ist eine noch kleinere
+##### usw
+
+
+<!-- So formatiert Ihr Text: **fett**, *kursiv* -->
+Das ist beispielhafter Text - in **fett** und *kursiv*.
+
+
+<!-- Mit Spiegelstrichen könnt Ihr Aufzählungen kreiieren (vorher und nachher zwei Leerzeilen einfügen) -->
+- Hier findet Ihr eine Aufzählung...
+- mit vielen Punkten...
+- wirklich sehr vielen Punkten!
+
+
+<!-- So fügt Ihr einen Link ein: ![*Linkbeschreibung](https://EuerLink){target="_blank"} -->
+Mehr Informationen zu CorrelAid e.V. findet Ihr auf unserer [Webseite](https://correlaid.org){target="_blank"}, in unserem [Blog](https://correlaid.org/blog/){target="_blank"} und bei unserem [Podcast](https://soundcloud.com/correlaid_podcast){target="_blank"}.
+
+
+<!-- So fügt Ihr ein zentriertes Bild ein: <center> ![*Bildtitel*](https://LinkZumBild){#id .class width=100% height=100%} </center> -->
+
+<center>
+
+![*Bild: Elmo - Der Datenreifegradrechner von CorrelAid e.V. (https://correlaid.shinyapps.io/datamaturitymodel/)*](https://correlaid.org/images/nonprofits/elmo.png){#id .class width=50% height=50%}
+
+</center>
+
+
+<!-- So fügt Ihr ein Quiz ein -->
+### Quiz
+```{r quiz_beispiel}
+quiz(
+  caption = "Beispielquiz",
+    # Einfachauswahl
+    question_radio(
+    "Einfachauswahl",
+    answer("Korrekte Antwort", correct = TRUE),
+    answer("Falsche Antwort"),
+    correct = "Richtig! Eure Anmerkungen",
+    incorrect = "Leider falsch: Eure Hilfestellung",
+    allow_retry = TRUE,
+    try_again_button = "Nochmal versuchen"
+  ),
+  # Mehrfachauswahl
+  question_checkbox("Mehrfachauswahl",
+    answer("Korrekte Antwort", correct = TRUE),
+    answer("Noch eine korrekte Antwort", correct = TRUE),
+    answer("Falsche Antwort"),
+    correct = "Richtig! Eure Anmerkungen",
+    incorrect = "Leider falsch: Eure Hilfestellung",
+    allow_retry = TRUE,
+    try_again_button = "Nochmal versuchen"
+  ),
+  # Textfrage: Nur exakte Antworten korrekt
+  question_text("Textfrage",
+    answer("Korrekte Antwort", correct = TRUE),
+    answer("korrekte Antwort", message = "Schreibe bitte alle Worte groß."),
+    answer("korrekte antwort", message = "Schreibe bitte alle Worte groß."),
+    trim = TRUE,
+    correct = "Richtig! Eure Anmerkungen",
+    incorrect = "Leider falsch: Eure Hilfestellung",
+    placeholder = "Das ist ein Platzhalter",
+    allow_retry = TRUE,
+    try_again_button = "Nochmal versuchen"
+  ),
+  # Zahlfrage: Nur exakte Antworten korrekt
+  question_numeric("Zahlfrage",
+    answer(42, correct = TRUE),
+    correct = "Richtig! Eure Anmerkungen",
+    incorrect = "Leider falsch: Eure Hilfestellung",
+    allow_retry = TRUE,
+    try_again_button = "Nochmal versuchen",
+    min = 0,
+    max = 100,
+    step = 1
+  )
+)
+```
+
+
+<!-- So fügt Ihr eine interaktive Programmierübung ein -->
+### Interaktive Übung
+```{r beispieluebung, exercise=TRUE}
+# Berechnet 2 + 2
+### Hier Euer Code
+```
+
+```{r beispieluebung-solution}
+# Addition geht ganz einfach so
+2+2
+```
+
+```{r beispieluebung-check}
+grade_this_code()
+```

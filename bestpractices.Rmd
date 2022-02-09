@@ -1,0 +1,47 @@
+### Best Practices
+#### Vorwort: Über Lerntypen
+
+Lerntypenbestimmung
+
+### Herausforderungen von digitalen Bildungsangeboten
+Lernzeiten festlegen
+Hybride Formate etablieren
+
+### Allgemeine Informationen und wichtige Links
+Hier könnt Ihr Eure Teilnehmer:innen mit allen wichtighen Informationen zu Eurer Lernplattform versorgen.
+
+### Eckdaten 
+- Anfangsdatum - Enddatum, Aufwand: 2-4h/Woche
+- Format
+
+### Wichtige Termine
+#### Termin 1 (Datum): Titel
+Beschreibung mit **wichtigen Informationen** in fett
+
+#### Termin 2 (Datum): Titel
+Beschreibung
+
+### Lernziele
+- Das ist ein Lernziel mit dem **Fokus**
+- Das ist auch ein Lernziel mit dem anderen **Fokus**
+
+### Methodik
+- Wie wird gelernt?
+- Welche Formate erwartet Eure Teilnehmer:innen?
+
+#### Struktur der Kapitel
+
+
+<!-- Best Practice: Ein Abschnitt zur eigenen Anwendung mit zusätzlichen Materialien -->
+### Und jetzt Ihr: Eigene Anwendung der Lernenden
+Hier könnt
+
+<!-- Best Practice: Ein Abschnitt mit zusätzlichen Ressourcen -->
+### Zusätzliche Ressourcen
+- CorrelAids [Webseite](https://correlaid.org/){target="_blank"}
+- CorrelAids [Blog](https://correlaid.org/blog/){target="_blank"}
+- CorrelAids [Podcast](https://soundcloud.com/correlaid_podcast){target="_blank"}
+- Schummelzettel: Formatierung in [RMarkdown](https://correlaid.org/material/Schummelblatt_rmarkdown.pdf){target="_blank"}
+- Dokumentation des [learnr Packages](https://correlaid.org/){target="_blank"}
+- Dokumentation des [gradethis Packages](https://correlaid.org/){target="_blank"}
+- GitHub-Repository des [submitr Packages](https://github.com/dtkaplan/submitr){target="_blank"} für das Nutzer:innentracking (DSGVO beachten!)

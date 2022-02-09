@@ -1,0 +1,53 @@
+## Zielseite
+
+Hallo und herzlich willkommen bei "Lernplattformen bauen mit der Programmiersprache R"! 
+
+Ersetzt in diesem Codeeditior den Teil mit "Hier dein Name!" mit Eurem Namen. Klickt nun auf "Code ausführen".
+
+```{r paste, exercise=TRUE}
+paste("Schön, dass Du da bist,","Hier dein Name!")
+```
+
+Als kleine Vorschau auf das, wie wir "R Lernen -  Der Datenkurs von und für die Zivilgesellschaft" umgesetzt haben, könnt Ihr Euch gerne unser Promovideo ansehen:
+![*Promovideo R Lernen - Der Datenkurs von und für die Zivilgesellschaft (1min)](https://youtu.be/avH7Yn86SrU)
+
+```{r quiz_einstieg}
+quiz(
+  caption = "Was Ihr gelernt habt",
+    question("Mit learnr können digitale Lernformate...",
+      answer("mit wenig Ressourcen umgesetzt werden.", correct = TRUE),
+      answer("mit viel Aufwand und hohen Kosten umgesetzt werden."),
+      correct = "Richtig!",
+      incorrect = "Leider falsch: Mit learnr könnt Ihr ressourcenschonend digitale Lernformate erstellen.",
+      allow_retry = TRUE,
+      try_again_button = "Nochmal versuchen"
+    ),
+    question("Um ein digitales Lernangebot in learnr einrichten zu können, muss man...",
+      answer("sehr gut in R programmieren können."),
+      answer("Grundkonzepte der Formatierung in RMarkdown verstehen.", correct = TRUE),
+      answer("Neugier und Lust auf neue Open Source Technologien haben.", correct = TRUE),
+      correct = "Richtig! Videos, Texte und Quiz können auch ohne große Programmierkenntnisse eingefügt werden.",
+      incorrect = "Leider falsch: Videos, Texte und Quiz können auch ohne große Programmierkenntnisse eingefügt werden.",
+      allow_retry = TRUE,
+      try_again_button = "Nochmal versuchen"
+    ),
+    question_text("Gehostet werden kann Euer digitales Lernangebot über...",
+      answer("shinyapps.io", correct = TRUE),
+      placeholder = "Eure Antwort",
+      correct = "Richtig!",
+      incorrect = "Leider falsch: Das Hosting funktioniert über shinyapps.io",
+      allow_retry = TRUE,
+      try_again_button = "Nochmal versuchen"
+    )
+)
+```
+
+### Kontakt
+Die Projektverantwortliche Nina Hauser erreicht Ihr unter nina.h@correlaid.org. 
+
+Alle weiteren Angebote von CorrelAid e.V. erhaltet Ihr jeden Monat in unserem [Newsletter für NPOs](https://correlaid.us12.list-manage.com/subscribe?u=b294bf2834adf5d89bdd2dd5a&id=175fade988){target="_blank"}.
+
+### Eine kleine Bitte haben wir noch:
+Da für uns bei der Entwicklung solcher Prototypen allerhand Kosten entstehen, freuen wir uns über Eure Unterstützung. Zur Spendenseite: [Klick hier!](https://www.betterplace.org/de/projects/58963-correlaid-e-v-foerderung-von-datenwissenschaft-in-der-zivilgesellschaft){target="_blank"}
+
+Dieser Prototyp ist unter **CC-BY 4.0** lizensiert (Open Source mit Autor:innenakkreditierung). Wir freuen uns über die Integration unseres Logos.
