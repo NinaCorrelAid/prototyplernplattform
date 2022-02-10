@@ -1,0 +1,13 @@
+name: prototyplernplattform
+title: prototyplernplattform
+username:
+account: correlaid
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5626115
+bundleId: 5565542
+url: https://correlaid.shinyapps.io/prototyplernplattform/
+when: 1644512339.23782
+lastSyncTime: 1644512339.23783
+asMultiple: FALSE
+asStatic: FALSE

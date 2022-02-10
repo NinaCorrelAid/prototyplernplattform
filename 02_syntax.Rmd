@@ -1,5 +1,5 @@
 <!-- So gebt Ihr den einzelnen Seiten (Tabs) einen Titel: ## Euer Titel -->
-## Beispielkapitel
+## Syntax
 
 
 <!-- So fügt Ihr ein Video ein: ![*Lernvideo: Videobeschreibung (Dauer in min)*](https://EuerLink) -->

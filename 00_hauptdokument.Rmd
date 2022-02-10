@@ -46,10 +46,10 @@ out <- knitr::knit_child("01_zielseite.Rmd", quiet = TRUE)
 cat(out, sep = '')
 ```
 
-<!-- ## Beispielkapitel -->
+<!-- ## Syntax -->
 <!-- Anmerkung: ... -->
 ```{r results='asis'}
-out <- knitr::knit_child("02_beispielkapitel.Rmd", quiet = TRUE)
+out <- knitr::knit_child("02_syntax.Rmd", quiet = TRUE)
 cat(out, sep = '')
 ```
 
@@ -57,5 +57,12 @@ cat(out, sep = '')
 <!-- Anmerkung: ... -->
 ```{r results='asis'}
 out <- knitr::knit_child("03_bestpractices.Rmd", quiet = TRUE)
+cat(out, sep = '')
+```
+
+<!-- ## Beispielkapitel:  -->
+<!-- Anmerkung: ... -->
+```{r results='asis'}
+out <- knitr::knit_child("04_beispielkapitel.Rmd", quiet = TRUE)
 cat(out, sep = '')
 ```
