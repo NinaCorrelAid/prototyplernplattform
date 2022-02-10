@@ -42,20 +42,20 @@ gradethis::gradethis_setup(
 <!-- ## Zielseite -->
 <!-- Anmerkung: Mit dem folgenden Code Chunk verbindet Ihr Eure einzelnen Seite mit diesem Hauptdokument -->
 ```{r results='asis'}
-out <- knitr::knit_child("zielseite.Rmd", quiet = TRUE)
+out <- knitr::knit_child("01_zielseite.Rmd", quiet = TRUE)
 cat(out, sep = '')
 ```
 
 <!-- ## Beispielkapitel -->
 <!-- Anmerkung: ... -->
 ```{r results='asis'}
-out <- knitr::knit_child("beispielkapitel.Rmd", quiet = TRUE)
+out <- knitr::knit_child("02_beispielkapitel.Rmd", quiet = TRUE)
 cat(out, sep = '')
 ```
 
 <!-- ## Best Practices -->
 <!-- Anmerkung: ... -->
 ```{r results='asis'}
-out <- knitr::knit_child("bestpractices.Rmd", quiet = TRUE)
+out <- knitr::knit_child("03_bestpractices.Rmd", quiet = TRUE)
 cat(out, sep = '')
 ```

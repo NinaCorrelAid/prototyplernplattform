@@ -1,0 +1,93 @@
+## Best Practices
+
+### Besondere Herausforderungen von digitalen Bildungsangeboten
+Leider ist im Zuge der Open Education Bewegung klar geworden, dass die freie Verfügbarkeit von Bildungsangeboten im World Wide Web nicht nur positive Eigenschaften mit sich bringt, sondern auch die **Art und Weise der Kursangebote kritisch durchdacht werden sollte**. Eine zwischenmenschliche Herausforderung, die bei der Umsetzung digitaler Bildungsangebote nicht unerwähnt bleiben soll, sind die **hohen Abbruchquoten** (rund **96 Prozent**, vgl. Justin Reich and José A. Ruipérez-Valiente, "The MOOC Pivot", Fachjournal Science, 2019, verfügbar [hier](https://www.researchgate.net/publication/330316898_The_MOOC_pivot){target="_blank"}). Reine MOOC-Formate sind deshalb nicht geeignet Bildung zu demokratisieren (Vgl. Bärbel Schwertfeger, Haufe, 2019, abrufen: 7.2.22 unter diesem [Link](https://www.haufe.de/personal/hr-management/mba-steigende-abbruchquoten-bei-moocs_80_490128.html#:~:text=MOOC%2DTeilnehmer%3A%20Kaum%20Absolventen%2C,von%20rund%2096%20Prozent%20haben.){target="_blank"}). Einmalige live Veranstaltungen mögen von dieser Problematik frei sein, doch ist empirisch die tatsächliche Nachhaltigkeit einmaliger Angebote eher begrenzt (Vgl. spaced-repetition-Methode, C.A. Mace, Psychology of Study, 1932). Hinweise zur Problemlösung gibt die aktuelle Literatur (insb. Sun, A., & Chen, X. (2016), Online education and its effective practice: A research review, 2016). Primäres Studienergebnis ist die zentrale Herausforderung des Community Managements in digitalen Sphären, das durch die **Schaffung sozialer Präsenz, Interaktion und Kollaboration** gelöst werden kann. Für CorrelAid e.V. ist  deshalb das Einbetten öffentlich verfügbarer Bildungsmaterialien in feste Kursformate in hybriden Strukturen, die durch regelmäßige Treffen, Lernpartnerschaften und Kommunikationsräume zwischenmenschliche Beziehungen stärken, essentiell für die wirkungsvolle Gestaltung von digitalen Bildungsprojekten (Abbruchquote R Lernen: 37,5 Prozent). 
+
+### Besondere Herausforderungen von Bildungsangeboten zu digitalen Themen
+Neben Herausforderungen im Format ist bei der Vermittlung von digitalen Kompetenzen die Berührungsangst der Teilnehmenden wichtig. Oft  finden Referent:innen und Lernende in dem Terminologiedschungel aus Anglizismen und Fachwörtern keine gemeinsame Sprache. Gelerntes bleibt abstrakt. 
+
+CorrelAid e.V. folgt deshalb den folgenden Grundsätzen:
+**1. Abstrakte Technologien werden greifbar gemacht.**
+Ansatz: Vorstellung von Praxisbeispielen aus dem CorrelAid-Projektalltag und darüber hinaus hinsichtlich der Herausforderung, der technischen Lösung und der erzielten Wirkung
+**2. Kommunikation erfolgt auf Augenhöhe. Sprachliche Hürden werden abgebaut.**
+Ansatz: Verwendung einfacher Sprache und Analogien (u.a. Übersetzung von Anglizismen und Fachbegriffen) mit Erstellung eines Wörterbuchs
+**3. Kompetenzvermittlung erfolgt praxisorientiert und nachhaltig.**
+Ansatz: Verwendung von programmierten Funktionen und Funktionspage (sog. Packages), Möglichkeit der Adaption von vorgegebenen Codesegmenten für die Übungslösung, Aufzeigen von Referenzquellen zur eigenständigen Problemlösung (Dokumentation, Online Portale wie StackOverflow und die RStudio Community) und weiteren Hilfsangeboten, mehrmalige Wiederholung von Themen, Nutzbarkeit der Lernmaterialien nach Kursende, Betreuung der Alumni
+
+
+### Bedarfe ermitteln
+CorrelAid e.V. arbeitet bei der Entwicklung der Bildungsangebote bedarfsorientiert. Bei der Konzeption von (digitalen) Bildungsangeboten ist es wichtig, **Studien und aktuelle Befragungen der Zielgruppe** hinsichtlich der sich ergebenden Bedürfnisse zu evaluieren und zu konsolidieren. Im Bereich der Digitalisierung in der Zivilgesellschaft besonders bedeutsam: Der Digitalreport 2020: Non-Profits & IT, Edinger-Schons, Reppmann, Becker und Röhrl, herausgegeben von der Haus des Stiftens gGmbH (siehe [hier](https://www.digital-report.org/report){target="_blank"}).
+
+In der Entwicklung der eigenen Angebote bezieht sich CorrelAid e.V. insbesondere auf die Ergebnisse 1c: "Mehr Investitionen erforderlich, insbesondere in den **Faktor Mensch**" und ferner 1b "**Potenziale digitaler Schlüsseltechnologien** werden nicht erkannt" und 1a "**Einseitiges Digitalisierungsverständnis** (Digitalisierung zur Arbeitserleichterung nicht zur Wirkungssteigerung)". Das führt insgesamt dazu, dass Potenziale der Digitalisierung nicht ausgeschöpft werden (Ergebnis 1).
+
+
+### Lernpräferenzen nutzen
+Verschiedene Lernende erzielen bei gleicher Lernumgebung unterschiedliche Erfolge, was neben unterschiedlichen Vorkenntnissen, Motivation und intellektuellen Fähigkeiten auf unterschiedlichen **Fähigkeiten und Präferenzen** bezüglich der Sinnesmodalität (visuell, auditiv, motorisch, kommunikativ), Herangehensweise (global oder schrittweise, theoretisch oder praktisch) und des Grades der Benutzerfügrung (passiv oder interaktiv) resultiert (nach Kolb 1984; Honey & Mumford 1982). Durch den Einsatz verschiedener Mittel und Methoden können diese Präferenzen innerhalb eines Lernangebots abgebildet werden:
+
+- Einführung in die **Bedeutung und Theorie** des Themas mit **Beispielen aus der Praxis** (z.B. Lernvideos, Lesetexten und Kernaussagen und Übersichtsblättern, die Gelerntes herunterbrechen)
+- **Übertragung** des Gelernten (z.B. in interaktiven Übungen, teils mit strukturierten Vorlagen, teils frei)
+- **Reflektion** des Gelernten (z.B. in Quiz und als Gruppe in Livesessions und Lerngruppen)
+- optionale **Vertiefung** des Gelernten (z.B. durch zusätzliche Ressourcen und dem Ausblick auf weitere Anwendungsmöglichkeiten)
+
+So werden abstrakte Begriffsbildung (AC), konkretes Erfahren (CE), aktives Experimentieren (AE) und reflektierende Beobachtung (RO) ermöglicht. Wichtig ist auch die beständige Iteration, die durch den Einsatz der verschiedenen Methoden und Mittel natürlich entsteht. 
+
+Es ist für Lernende zudem hilfreich konkrete, klar kommunizierte **Lernziele** zu entwickeln, die durch die Verknüpfung mit Lernerfahrungen einen eindeutig definierten Lernpfad über die Zeit darstellen (angelehnt an Benjamin Bloom, 1956). Zwischenzeitliche und finale Erfolgsüberprüfungen, beispielsweise durch direkte Feedbackmechanism in Quizformaten, helfen Lernenden zudem eigenständig Wissenslücken im Lernstoff zu identifizieren.
+
+
+### Fortschritt der Technik nutzen
+- Einrichtung einer interaktiven Lernplattform: R und R Studio mit dem learnr-Framework und gradethis-Package
+- Hosting: shinyapps.io - Videos auf YouTube
+- Kollaboration Projektteam: GitHub
+- Videokonferenztool: Zoom oder ähnliche
+- Umfragetool: KoboToolbox oder ähnliche
+- Veröffentlichung von Materialien: Webseite bzw. eigene - Cloud-Instanz (z.B. NextCloud)
+- Kommunikation: E-Mail und Chat (Mattermost, Slack oder ähnliche)
+- Digitales Whiteboard zur Projektplanung und Templates: Mural oder ähnliche
+- Dokumente, Präsentationen und Tabellen: Microsoft Office 365 oder ähnliche
+
+**Hardwarevoraussetzungen:** <br>
+a) Für das Projektteam und Dozent:innen: PC mit Adminrechten und installiertem R, RStudio und learnr-Package und Git <br>
+c) keine
+
+*Die Kollaboration im digitalen Raum kann Hürden mit sich bringen. CorrelAid e.V. arbeitet mit den Dozent:innen deshalb über gängige IT-Kollaborationstools wie GitHub zusammen, die die Einreichung von Veränderungen (commits) und deren Verfolgung (Version Tracking) stark vereinfachen. In der Nutzung dieser Tools müssen Dozent:innen teilweise geschult werden, da sie nicht überall in der Datenwissenschaft genutzt werden. Auch bei der Installation von notwendiger Software werden Beteiligte intern geschult.* 
+
+
+### Expertise zentralisieren und lenken
+Die Inhalte werden in der Regel nur partiell vom Projektteam entwickelt - externe Expertise und Kooperation ist in der Regel notwendig. Die Moderation des inhaltlichen Prozesses erfolgt für die Dozent:innen nach den Grundprinzipien von **Scrum** (hier der [Sprintplan](https://docs.google.com/document/d/131h9-9PlA8iDXJizNHwLyxFb_kW4nQLx0rcHI1s0Otg/edit?usp=sharing){target="_blank"}): Das Projektteam arbeitet nach den fünf Scrum-Werten (Engagement, Fokus, Respekt, Mut und Offenheit), die für das Projekt genauer definiert werden sollten. Extern gegebene Termine werden klar kommuniziert und festgehalten. Für die einzelnen Lernabschnitte existieren eine **Definition of Done** (kurz DoD, Kriterien für Abgaben) sowie allgemeinere Akzeptanzkriterien. die die Qualität des Produkts für Nutzer:innen ermitteln. Innerhalb dieses gesetzten Rahmens sind die Dozent:innen dann frei, wobei die Kapitel vor Veröffentlichung zwei und pro Quartal eine kleinere Reviewschleife durch den Product Owner und eine weitere Dozent:in durchlaufen. Das Format der finalen Ausarbeitung ist durch Templates, DoD, Akzeptanzkriterien und die technische Infrastruktur vorgegeben. Die Dozent:innen sind die Expert:innen für das von ihnen frei gewählte Thema.
+
+
+### Möglicher Ablauf
+
+#### Teil 0: Anmelden
+Bei der Anmeldung wird der Ton für das gesamte digitale Lernangebot gesetzt. CorrelAid e.V. setzt auf **Kommunikation auf Augenhöhe** (per Du) und **persönliche Beziehungen**. Während das Event über [Flyer](https://www.instagram.com/p/CTjrD9xsfeR/?utm_medium=copy_link){target="_blank"} (mit Thema, Eckdaten, Lernzielen, Lernerfahrungen, Methodik und Kontaktperson) über diverse Kommunikationskanäle beworben wird, erfolgt die Anmeldung per E-Mail an die Projektleiterin. In der E-Mail wird auch über die **Motivation** für die Teilnahme am Kurs gesprochen. 
+
+Kurz vor Kursbeginn erhalten Teilnehmer:innen eine **E-Mail mit allen wichtigen Informationen und Links**. CorrelAid e.V. nutzt zudem eine Willkommensseite (engl. landing page) auf die digitalen Lernplattform. Diese enthält: eine Begrüßung, einen ersten Aufgabenteaser, eine [Videovorschau](https://youtu.be/avH7Yn86SrU){target="_blank"} sowie Informationen zu genutzten Tools (Videokonferenztool, Kommunikationsraum, sonstige Kollaborationstools), Eckdaten, den Lernplan, Lernziele, Methodik, Kontakt und - in unserem Fall - eine Bitte um Spenden. Wir empfehlen ein Chatsystem, in dem wichtige Informationen kommuniziert aber auch informeller Austausch erfolgen kann. Zu festen Terminen gibt es eine **Kalendereinladung mit Erinnerung** per E-Mail.
+
+#### Teil 1: Lernräume schaffen
+Nun dreht sich alles rund ums Kennenlernen und Aufwärmen. Zu Kursbeginn erhalten die Teilnehmenden die Möglichkeit, sich individuell **dem Projektteam und den anderen Kursteilnehmer:innen vorzustellen**. Wie heißen, woher kommen sie, wann und warum wollen sie am Kurs teilnehmen? Das hat zudem den Vorteil, dass sich Teilnehmer:innen Gedanken über ihre intrinsische Motivation und ihre zeitlichen Kapazitäten machen. Zu diesem Zeitpunkt lernen sich auf die **Lerngruppen** kennen. Für das Projektteam bietet sich hier zudem die Gelegenheit **Vorkenntnisse und Erwartungen zu ermitteln**. Die Selbsteinschätzung hinsichtlich bereits vorhandener Vorkenntnisse erfolgt bei CorrelAid e.V. spielerisch mit einem einfachen Kompetenzstrahl. Zusätzlich können Teilnehmer:innen drei Wünsche für das Bildungsangebot äußern, die bei der Umsetzung berücksichtigt werden. Dazu nutzt CorrelAid e.V. ein digitales Whiteboard (derzeit: Mural mit NPO-Produktspende). Hier sollte auch geprüft werden, ob sich alle Teilnehmer:innen in den **Kommunikationskanälen** angemeldet haben.
+
+![*Bild: Digitaler Vorstellungsraum auf Mural*](https://correlaid.org/material/muralkennenlernen.pdf){target="_blank"}
+
+#### Teil 2: Lernen
+Jedes Kapitel der digitalen Lernplattform von CorrelAid e.V. besteht aus den folgenden Elementen: **Lernvideo, Kernaussagen, interaktives Quiz mit Lösung, interaktive Codesegmente mit Lösung, Übungsdateien zur lokalen Bearbeitung mit Lösung und Abschnitt mit weiterführenden Ressourcen**. Die Kapitel werden wöchentlich freigeschaltet, das Lerntempo damit gezielt geleitet und gedrosselt. Daneben stehen Teilnehmenden Informationen zum Kurs, der Zeit nach dem Kurs und ein Glossar zur Verfügung.
+
+Die interaktiven Elemente und Übung werden in der **Livesession** mit den Dozent:innen besprochen, um Fragen klären zu können. Zu Beginn jeder Livesession gibt es einen informellen Check-In. Auch die Kommunikationskanäle werden nun genutzt, um Informationen zu teilen, auf Nachrichten zu reagieren, sich für Termine zu entschuldigen und Hilfe zu suchen. Die individuelle Betreuung wird durch Sprechstunden gesichert.
+
+#### Teil 3: Reflektieren
+Am Ende eines jeden Kursdurchgangs erhalten Teilnehmende eine **Umfrage**, die **Qualitätskriterien und Wirkungsindikatoren** abdeckt, und die Möglichkeit der Einreichung von Testimonials (qualitatives Feedback). Ersteres wird technisch bei CorrelAid e.V. durch eine eigene Kobo-Toolbox-Instanz umgesetzt. Letzteres erfolgt in Kollaboration mit dem PR-Team anhand dafür erstellter Vorlagen. Das Feedback der Teilnehmenden wird im Anschluss in der Retrospektive der Dozent:innen geteilt und besprochen.
+
+Iterative Prozesse sind zentraler Bestandteil des Scrum-Prozesses. Da im ehrenamtlichen Bereich Prozesse oft langatmiger sind, erfolgte die Übertragung der Idee des Daily (tägliche Teambesprechung) bei CorrelAid e.V. in wöchentlichen Abschnitten, die bereits kleine Prozessverbesserungen initiierten. Die sog. Retrospektive findet zum Kursende statt und führt zur der rigoroseren Anwendung der vorgestellten Scrum-Prinzipien. Methodisch und technisch erfolgt das Feedback verbal, wobei Dozent:innen Kernpunkte auf dem designierten Kanban-Board in einem dafür vorgesehenen Bereich vermerkt wurden. 
+
+
+### Zusätzliche Ressourcen
+- Kontakt zu der Projektleiterin [Nina Hauser](nina.h@correlaid.org)
+- CorrelAids [Webseite](https://correlaid.org/){target="_blank"}
+- CorrelAids [Blog](https://correlaid.org/blog/){target="_blank"}
+- CorrelAids [Podcast](https://soundcloud.com/correlaid_podcast){target="_blank"}
+- Schummelzettel: Formatierung in [RMarkdown](https://correlaid.org/material/Schummelblatt_rmarkdown.pdf){target="_blank"}
+- Dokumentation des [learnr Packages](https://correlaid.org/){target="_blank"}
+- Dokumentation des [gradethis Packages](https://correlaid.org/){target="_blank"}
+- GitHub-Repository des [submitr Packages](https://github.com/dtkaplan/submitr){target="_blank"} für das Nutzer:innentracking (DSGVO beachten!)
+- Bloom, Benjamin (1956) Taxonomy of Educational Objectives (siehe [hier](https://teaching.charlotte.edu/sites/teaching.charlotte.edu/files/media/files/file/GoalsAndObjectives/Bloom.pdf){target="_blank"})
+- Honey, P. & Mumford, A. (1982) Manual of Learning Styles, P. Honey, London (siehe [hier](http://till.schnupp.net/honey-mumfort/){target="_blank"})
+- Kolb, D. A. (1984) Experiential learning: Experience as the source of learning and development . Prentice Hall, Englewood Cliffs (siehe [hier](https://learningfromexperience.com/){target="_blank"})
